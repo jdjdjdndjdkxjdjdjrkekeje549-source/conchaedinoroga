@@ -4,7 +4,7 @@ import random, time, threading
 from collections import defaultdict
 import os
 
-TOKEN = os.getenv("8918406710:AAFKRvkwK7gq612eptbL0qdl3gttvFRHOV4")
+TOKEN = os.getenv("8918406710:AAFxHttlez3sytjiwK9_vG-ImmIxUsRoy7o")
 if not TOKEN:
     raise RuntimeError(
         "Не задана переменная окружения TOKEN! "
